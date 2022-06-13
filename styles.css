@@ -1,0 +1,41 @@
+body{
+    background-color: #c1d72e;
+    color: #FFFFFF;
+}
+h1{
+    text-align: center;
+}
+.hangman-choose-btn{
+    background-color: #FFFFFF;
+    padding: 10px 15px 10px 15px;
+    border: 2px solid #FFFFFF;
+    margin-top: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 5px;
+    color: #c1d72e;
+}
+.hangman-choose-btn:hover{
+    background-color: #c1d72e;
+    color: #FFFFFF;
+}
+.hangman-choose-btn:disabled{
+    background-color: #c1d72e;
+    color: #FFFFFF;
+}
+.hangman-selected-btn-input{
+    width: 10%;
+}
+.input-text-box{
+    margin-left: 25%;
+}
+.hangman-selected-btn-input{
+    text-align: center;
+    background-color: #c1d72e;
+    border-bottom: 4px solid #FFFFFF;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color: #FFFFFF;
+    font-size: 24px;
+}
